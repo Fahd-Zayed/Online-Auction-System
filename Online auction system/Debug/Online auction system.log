@@ -1,0 +1,3 @@
+﻿  Online auction system.cpp
+D:\c++ projects Data Structures\Online auction system\Online auction system\Online auction system.cpp(89): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Online auction system.vcxproj -> D:\c++ projects Data Structures\Online auction system\Debug\Online auction system.exe
